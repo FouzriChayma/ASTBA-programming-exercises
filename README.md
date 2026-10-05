@@ -1,2 +1,9 @@
-# ASTBA-programming-exercises
-Programming exercises and practical projects in algorithms, Python, HTML5 and CSS3 for college and high-school students.
+# ASTBA Programming Exercises
+
+A collection of programming exercises and practical projects created for college and high-school students.
+
+## Topics
+
+- Algorithmic problem solving
+- Python
+- HTML5 / CSS3 / JavaScript
